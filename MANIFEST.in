@@ -1,1 +1,1 @@
-recursive-include src/Core/regularisers_GPU/cuda_kernels *
+recursive-include src/Python/ccpi/cuda_kernels *
